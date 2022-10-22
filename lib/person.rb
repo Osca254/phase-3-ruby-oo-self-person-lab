@@ -73,4 +73,4 @@ class Person
     end
     end
 end
-tasha = Person.new("Oscar")
+oscar = Person.new("Oscar")
